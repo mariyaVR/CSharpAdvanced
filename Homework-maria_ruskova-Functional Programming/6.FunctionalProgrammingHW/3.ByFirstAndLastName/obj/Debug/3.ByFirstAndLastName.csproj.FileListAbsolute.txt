@@ -1,0 +1,16 @@
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\3.ByFirstAndLastName.exe.config
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\3.ByFirstAndLastName.exe
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\3.ByFirstAndLastName.pdb
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\Student.exe
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\Student.pdb
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\obj\Debug\3.ByFirstAndLastName.exe
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\obj\Debug\3.ByFirstAndLastName.pdb
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\3.ByFirstAndLastName\obj\Debug\3.ByFirstAndLastName.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\3.ByFirstAndLastName.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\obj\Debug\3.ByFirstAndLastName.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\obj\Debug\3.ByFirstAndLastName.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\3.ByFirstAndLastName.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\3.ByFirstAndLastName.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\Student.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\bin\Debug\Student.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\3.ByFirstAndLastName\obj\Debug\3.ByFirstAndLastName.csprojResolveAssemblyReference.cache

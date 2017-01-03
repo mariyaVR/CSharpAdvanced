@@ -1,0 +1,12 @@
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.pdb
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\4. TextFilter\obj\Debug\4. TextFilter.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\4. TextFilter\obj\Debug\_4.TextFilter.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\4. TextFilter\obj\Debug\_4.TextFilter.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.exe.config
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\4. TextFilter\obj\Debug\_4.TextFilter.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\4. TextFilter\obj\Debug\_4.TextFilter.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\4. TextFilter\obj\Debug\4. TextFilter.csprojResolveAssemblyReference.cache

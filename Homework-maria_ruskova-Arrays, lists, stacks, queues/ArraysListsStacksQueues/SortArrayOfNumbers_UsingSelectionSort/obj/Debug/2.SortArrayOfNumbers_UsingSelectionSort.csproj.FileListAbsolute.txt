@@ -1,0 +1,13 @@
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\obj\Debug\SortArrayOfNumbers_UsingSelectionSort.exe
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\obj\Debug\SortArrayOfNumbers_UsingSelectionSort.pdb
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.exe
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.pdb
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.exe.config
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\obj\Debug\SortArrayOfNumbers_UsingSelectionSort.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\obj\Debug\SortArrayOfNumbers_UsingSelectionSort.pdb
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Debug\SortArrayOfNumbers_UsingSelectionSort.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\obj\Debug\SortArrayOfNumbers_UsingSelectionSort.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\obj\Debug\SortArrayOfNumbers_UsingSelectionSort.pdb

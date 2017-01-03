@@ -1,0 +1,12 @@
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\bin\Debug\3.WordCount.exe.config
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\bin\Debug\3.WordCount.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\bin\Debug\3.WordCount.pdb
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\obj\Debug\3.WordCount.csprojResolveAssemblyReference.cache
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\obj\Debug\3.WordCount.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\obj\Debug\3.WordCount.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\bin\Debug\3.WordCount.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\obj\Debug\3.WordCount.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\obj\Debug\3.WordCount.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\bin\Debug\3.WordCount.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\bin\Debug\3.WordCount.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\3.WordCount\obj\Debug\3.WordCount.csprojResolveAssemblyReference.cache

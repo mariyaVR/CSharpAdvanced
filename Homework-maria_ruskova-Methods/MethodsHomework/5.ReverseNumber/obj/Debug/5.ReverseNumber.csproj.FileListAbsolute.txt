@@ -1,0 +1,5 @@
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\5.ReverseNumber\bin\Debug\5.ReverseNumber.exe.config
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\5.ReverseNumber\bin\Debug\5.ReverseNumber.exe
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\5.ReverseNumber\bin\Debug\5.ReverseNumber.pdb
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\5.ReverseNumber\obj\Debug\5.ReverseNumber.exe
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\5.ReverseNumber\obj\Debug\5.ReverseNumber.pdb

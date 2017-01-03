@@ -1,0 +1,12 @@
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.pdb
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.exe.config
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.pdb
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe.config
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.exe
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.pdb
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\5.UnicodeCharacters\obj\Debug\5.UnicodeCharacters.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\5.UnicodeCharacters\obj\Debug\5.UnicodeCharacters.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.exe.config
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\5.UnicodeCharacters\obj\Debug\5.UnicodeCharacters.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\5.UnicodeCharacters\obj\Debug\5.UnicodeCharacters.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.pdb

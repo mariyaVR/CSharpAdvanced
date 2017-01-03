@@ -1,0 +1,9 @@
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.pdb
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.exe.config
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.exe
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.pdb

@@ -1,0 +1,14 @@
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.exe
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.pdb
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.pdb
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe.config
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.pdb
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.pdb
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\3.CategorizeNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.pdb

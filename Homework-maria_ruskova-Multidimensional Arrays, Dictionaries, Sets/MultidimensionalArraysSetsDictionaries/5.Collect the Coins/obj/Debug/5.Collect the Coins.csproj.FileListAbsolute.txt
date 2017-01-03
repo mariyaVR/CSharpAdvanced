@@ -1,0 +1,9 @@
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\bin\Debug\5.Collect the Coins.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\bin\Debug\5.Collect the Coins.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\bin\Debug\5.Collect the Coins.pdb
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\obj\Debug\5.Collect the Coins.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\obj\Debug\5.Collect the Coins.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\obj\Debug\5.Collect the Coins.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\bin\Debug\5.Collect the Coins.exe.config
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\obj\Debug\5.Collect the Coins.exe
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\5.Collect the Coins\obj\Debug\5.Collect the Coins.pdb

@@ -1,0 +1,1 @@
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config

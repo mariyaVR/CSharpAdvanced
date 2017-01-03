@@ -1,0 +1,9 @@
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\obj\Debug\5.LongestIncreasingSequence!.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

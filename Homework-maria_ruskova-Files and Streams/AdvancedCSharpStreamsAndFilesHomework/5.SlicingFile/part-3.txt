@@ -1,0 +1,21 @@
+          {
+                byte[] buffer = new byte[4096];
+                while (true)
+                {
+                    int readBytes = source.Read(buffer, 0, buffer.Length);
+                    if (readBytes == 0)
+                    {
+                        break;
+                    }
+
+                    for (int j = 0; j < readBytes; j++)
+                    {
+                        allData.Add(buffer[j]);
+                    }
+                }
+            }
+        }
+
+        using (var copy = new FileStream(destinationDirectory, FileMode.Create))
+        {
+            cop

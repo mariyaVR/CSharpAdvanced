@@ -1,0 +1,1 @@
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers_UsingSelectionSort\bin\Release\SortArrayOfNumbers_UsingSelectionSort.exe.config

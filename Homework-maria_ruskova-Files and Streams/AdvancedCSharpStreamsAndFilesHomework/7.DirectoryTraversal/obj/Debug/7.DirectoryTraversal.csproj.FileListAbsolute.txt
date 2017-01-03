@@ -1,0 +1,18 @@
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe.config
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.pdb
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.csprojResolveAssemblyReference.cache

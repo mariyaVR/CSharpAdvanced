@@ -1,0 +1,16 @@
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\5.SortStudents.exe.config
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\5.SortStudents.exe
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\5.SortStudents.pdb
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\Student.exe
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\Student.pdb
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\obj\Debug\5.SortStudents.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\obj\Debug\5.SortStudents.exe
+E:\SoftUni\C#Advanced\6. Advanced-CSharp-Functional-Programming-Homework\7. Functional-Programming-Homework\6.FunctionalProgrammingHW\5.SortStudents\obj\Debug\5.SortStudents.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\5.SortStudents.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\obj\Debug\5.SortStudents.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\obj\Debug\5.SortStudents.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\5.SortStudents.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\5.SortStudents.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\Student.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\bin\Debug\Student.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Functional Programming\6.FunctionalProgrammingHW\5.SortStudents\obj\Debug\5.SortStudents.csprojResolveAssemblyReference.cache

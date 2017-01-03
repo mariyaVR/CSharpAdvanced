@@ -1,0 +1,12 @@
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe.config
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.pdb
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.csprojResolveAssemblyReference.cache

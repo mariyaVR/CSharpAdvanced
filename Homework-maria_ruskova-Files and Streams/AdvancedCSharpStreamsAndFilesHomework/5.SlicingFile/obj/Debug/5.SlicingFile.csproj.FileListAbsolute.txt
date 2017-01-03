@@ -1,0 +1,18 @@
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.exe.config
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.pdb
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\bin\Debug\5.SlicingFile.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\5.SlicingFile\obj\Debug\5.SlicingFile.csprojResolveAssemblyReference.cache

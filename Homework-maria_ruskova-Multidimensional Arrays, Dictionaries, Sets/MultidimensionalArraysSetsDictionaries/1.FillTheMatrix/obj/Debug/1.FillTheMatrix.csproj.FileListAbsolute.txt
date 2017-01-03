@@ -1,0 +1,15 @@
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\SoftUni\C#Advanced\Array, List HW\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe.config
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\C#Advanced\2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Multidimensional Arrays, Dictionaries, Sets\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Multidimensional Arrays, Dictionaries, Sets\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Multidimensional Arrays, Dictionaries, Sets\MultidimensionalArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb

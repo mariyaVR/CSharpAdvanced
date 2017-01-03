@@ -1,0 +1,13 @@
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.pdb
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.exe.config
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Strings and Text Processing\StringsAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Strings and Text Processing\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Strings and Text Processing\StringsAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.pdb

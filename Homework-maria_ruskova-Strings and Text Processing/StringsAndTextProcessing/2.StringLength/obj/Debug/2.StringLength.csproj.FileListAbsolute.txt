@@ -1,0 +1,12 @@
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\2.StringLength\bin\Debug\2.StringLength.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\2.StringLength\bin\Debug\2.StringLength.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\2.StringLength\bin\Debug\2.StringLength.pdb
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\2.StringLength\obj\Debug\2.StringLength.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\2.StringLength\obj\Debug\2.StringLength.exe
+E:\SoftUni\C#Advanced\Array, List HW\StringsAndTextProcessing\2.StringLength\obj\Debug\2.StringLength.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\2.StringLength\bin\Debug\2.StringLength.exe.config
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\2.StringLength\obj\Debug\2.StringLength.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\2.StringLength\obj\Debug\2.StringLength.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\2.StringLength\bin\Debug\2.StringLength.exe
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\2.StringLength\bin\Debug\2.StringLength.pdb
+E:\SoftUni\C#Advanced\4. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\2.StringLength\obj\Debug\2.StringLength.csprojResolveAssemblyReference.cache

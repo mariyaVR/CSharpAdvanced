@@ -1,0 +1,5 @@
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\2.LastDigitOfANumber\bin\Debug\2.LastDigitOfANumber.exe.config
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\2.LastDigitOfANumber\bin\Debug\2.LastDigitOfANumber.exe
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\2.LastDigitOfANumber\bin\Debug\2.LastDigitOfANumber.pdb
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\2.LastDigitOfANumber\obj\Debug\2.LastDigitOfANumber.exe
+E:\SoftUni\C#Advanced\Advanced-CSharp-Methods-Homework\MethodsHomework\2.LastDigitOfANumber\obj\Debug\2.LastDigitOfANumber.pdb

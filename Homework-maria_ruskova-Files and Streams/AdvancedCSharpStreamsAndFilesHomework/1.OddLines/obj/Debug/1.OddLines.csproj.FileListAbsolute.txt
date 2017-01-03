@@ -1,0 +1,15 @@
+c:\users\mimeto\documents\visual studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.exe.config
+c:\users\mimeto\documents\visual studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.exe
+c:\users\mimeto\documents\visual studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.pdb
+c:\users\mimeto\documents\visual studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.csprojResolveAssemblyReference.cache
+c:\users\mimeto\documents\visual studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.exe
+c:\users\mimeto\documents\visual studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\1.OddLines\bin\Debug\1.OddLines.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\AdvancedCSharpStreamsAndFilesHomework\1.OddLines\obj\Debug\1.OddLines.pdb

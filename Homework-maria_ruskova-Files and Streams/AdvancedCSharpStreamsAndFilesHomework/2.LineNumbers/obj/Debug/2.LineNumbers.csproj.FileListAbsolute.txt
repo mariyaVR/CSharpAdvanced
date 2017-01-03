@@ -1,0 +1,10 @@
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\bin\Debug\2.LineNumbers.exe.config
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\bin\Debug\2.LineNumbers.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\bin\Debug\2.LineNumbers.pdb
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\obj\Debug\2.LineNumbers.exe
+C:\Users\Mimeto\Documents\Visual Studio 2015\Projects\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\obj\Debug\2.LineNumbers.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\bin\Debug\2.LineNumbers.exe.config
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\obj\Debug\2.LineNumbers.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\obj\Debug\2.LineNumbers.pdb
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\bin\Debug\2.LineNumbers.exe
+E:\SoftUni\C#Advanced\7. Advanced-CSharp-Streams-And-Files-Homework\6.AdvancedCSharpStreamsAndFilesHomework\2.LineNumbers\bin\Debug\2.LineNumbers.pdb

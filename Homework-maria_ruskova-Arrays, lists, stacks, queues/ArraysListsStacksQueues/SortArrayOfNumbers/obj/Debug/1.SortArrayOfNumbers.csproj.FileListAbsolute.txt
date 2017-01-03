@@ -1,0 +1,12 @@
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.pdb
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\1.SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+E:\SoftUni\C#Advanced\HW\Homework-maria_ruskova-Arrays, lists, stacks, queues\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb

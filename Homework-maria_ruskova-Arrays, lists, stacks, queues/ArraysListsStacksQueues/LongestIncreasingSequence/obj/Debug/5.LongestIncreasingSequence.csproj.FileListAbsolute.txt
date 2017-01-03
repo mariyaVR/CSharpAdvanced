@@ -1,0 +1,1 @@
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config

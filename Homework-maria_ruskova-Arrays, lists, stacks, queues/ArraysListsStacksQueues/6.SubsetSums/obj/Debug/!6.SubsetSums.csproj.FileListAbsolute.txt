@@ -1,0 +1,2 @@
+E:\SoftUni\C#Advanced\Array, List HW\ArraysListsStacksQueues\6.SubsetSums\bin\Debug\6.SubsetSums.exe.config
+E:\SoftUni\C#Advanced\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\6.SubsetSums\bin\Debug\6.SubsetSums.exe.config
